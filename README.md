@@ -1,7 +1,16 @@
 ### Hi! 👋 Saya Achmad Putra A.
 
 Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
-  
+
+**Skills:**<br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,kotlin,laravel,tailwind,php,dart&theme=dark)](https://skillicons.dev)
+
+**Tools:**<br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
+
+**Language Stats:**<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inihikam&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/AchmadPutraA12">
