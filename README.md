@@ -16,5 +16,15 @@ Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
 **Tools:**<br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AchmadPutraA12/AchmadPutraA12/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
+
 **Language Stats:**<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadPutraA12&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
