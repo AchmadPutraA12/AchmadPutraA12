@@ -14,6 +14,6 @@ Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript,vue,react,flutter,bootstrap,laravel,tailwind,dart&theme=dark)](https://skillicons.dev)
 
 **Tools:**<br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,laragon,pogree,figma&theme=dark)](https://skillicons.dev)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchmadPutraA12&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"/>
