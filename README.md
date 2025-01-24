@@ -17,3 +17,15 @@ Perkenalkan nama lengkap saya *Achmad Putra Arifky*.
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,powershell,github,gitlab,kali,postgres,figma&theme=dark)](https://skillicons.dev)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchmadPutraA12&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"/>
+
+<p align="center">
+Hi there 👋
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=recitativonika&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchmadPutraA12/AchmadPutraA12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchmadPutraA12/AchmadPutraA12/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AchmadPutraA12/AchmadPutraA12/output/github-contribution-grid-snake.svg">
+</picture>
